@@ -1,7 +1,2 @@
-# TESTREPO
-
-* This is test repo file.
-
-Created by:
-Yejur Singh Kunwar
-Sep 08, 2017
+# stat6306introdatascience
+Files and projects for Stat 6306 Introduction to Data Science
